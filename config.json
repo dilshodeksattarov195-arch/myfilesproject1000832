@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperurocess",
+        "uuid": 1567488,
+        "checksum": "mz3f1v"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
